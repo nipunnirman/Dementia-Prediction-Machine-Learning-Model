@@ -1,0 +1,14 @@
+Data Exploration Summary
+======================================================================
+
+dataset_path: data/cleaned_data.csv
+total_rows: 195196
+total_columns: 70
+working_rows: 195196
+available_nonmedical_features: 69
+target_variable: DEMENTED
+target_distribution: {0: 137606, 1: 57590}
+class_balance: {0: 70.49632164593537, 1: 29.503678354064633}
+numerical_features: 54
+categorical_features: 16
+missing_percentage: 35.36
