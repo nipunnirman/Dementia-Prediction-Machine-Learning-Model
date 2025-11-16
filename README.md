@@ -214,9 +214,7 @@ Results: 94.19% ROC-AUC
 
 ---
 
-##  License
 
-MIT License - see [LICENSE](LICENSE) file
 
 ---
 
